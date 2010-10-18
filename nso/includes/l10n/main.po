@@ -1,0 +1,340 @@
+#. extracted from src-temp/includes/l10n/main.lang
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-10-16 01:38+0200\n"
+"PO-Revision-Date: 2010-10-18 12:41+0200\n"
+"Last-Translator: Pheledi <pheledi@mosekolatranslation.co.za>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: nso\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Pootle 2.1.1\n"
+
+msgid "Navigation"
+msgstr "Tshepelatshepelo"
+
+msgid "Press area"
+msgstr "Gatelela lefelo"
+
+msgid "About"
+msgstr "Ka ga"
+
+msgid "Store"
+msgstr "Boloka"
+
+msgid "Donate"
+msgstr "Neela"
+
+msgid "Support"
+msgstr "Thekgo"
+
+msgid "Products"
+msgstr "Ditšweletšwa"
+
+msgid "Add-ons"
+msgstr "Ditlaleletši"
+
+msgid "About Us"
+msgstr "Ka ga rena"
+
+msgid "Developers"
+msgstr "Batšweletši"
+
+msgid "Labs"
+msgstr "Dilaboratori"
+
+msgid "skip to Navigation"
+msgstr "tabogela go Tshepelatshepelo"
+
+msgid "switch language"
+msgstr "fetoša leleme"
+
+msgid "Back to home page"
+msgstr "Morago letlakaleng la gae"
+
+msgid "About Mozilla"
+msgstr "Ka ga Mozilla"
+
+msgid "Get Involved"
+msgstr "Tsenya letsogo"
+
+msgid "Partnerships"
+msgstr "Ditirišano"
+
+msgid "Licensing"
+msgstr "Dilaesense"
+
+msgid "Careers"
+msgstr "Mešomo"
+
+msgid "Press Center"
+msgstr "Lefelo la ditaba"
+
+msgid "Contact Us"
+msgstr "Ikgokaganye le rena"
+
+msgid "Site contact"
+msgstr "Yo go ka ikgokaganywago le yena saeteng"
+
+msgid "Other languages:"
+msgstr "Maleme a mangwe:"
+
+msgid "%Y-%m-%d"
+msgstr "%Y-%m-%d"
+
+msgid "All rights reserved."
+msgstr "Ditokelo tšohle di bolokilwe."
+
+msgid "Legal Notices"
+msgstr "Ditemošo tša semolao"
+
+msgid "Privacy Policy"
+msgstr "Pholisi ya bosephiri"
+
+msgid "Visit Mozilla.com"
+msgstr "Etela Mozilla.com"
+
+msgid "Visit Mozilla.com (in English)"
+msgstr "Etela Mozilla.com (ka Seisemane)"
+
+msgid "Download Firefox - Free"
+msgstr "Laolla Firefox - Mahala"
+
+msgid "Release Notes"
+msgstr "Dintlha tša tokollo"
+
+msgid "Other Systems and Languages"
+msgstr "Ditshepedišo tše dingwe le maleme"
+
+msgid "Get Firefox"
+msgstr "Hwetša Firefox"
+
+msgid "Get Firefox 3"
+msgstr "Hwetša Firefox 3"
+
+msgid "Get Firefox 3.5"
+msgstr "Hwetša Firefox 3.5"
+
+msgid "Free Download"
+msgstr "Go laolla ga mahala"
+
+msgid "Help us make Firefox even better!"
+msgstr "Re thuše go dira gore Firefox e be kaone le go feta!"
+
+msgid ""
+"Take a few moments to take a quick survey and share your thoughts with us."
+msgstr ""
+"Tšea nako e nyenyane gore o tlatše nyakišišo ya kapejana gomme o abelane "
+"dikgopolo tša gago le rena."
+
+msgid ""
+"This video brought to you by <a href=\"%s\">Dailymotion</a>, proud supporters "
+"of open video."
+msgstr ""
+"Bidio ye e tlišitšwe go wena ke <a href=\"%s\">Dailymotion</a>, bathekgi bao "
+"ba ikgantšhago ba bidio ya bolokologi."
+
+msgid "Close"
+msgstr "Tswalela"
+
+msgid "(in English)"
+msgstr "(ka Seisemane)"
+
+msgid "Download Now - Free"
+msgstr "Laolla gona bjale - Mahala"
+
+msgid "Return to top"
+msgstr "Boela godimo"
+
+msgid ""
+"You should <a href=\"http://get.adobe.com/flashplayer/\">update Adobe Flash "
+"Player</a> right now."
+msgstr ""
+"O swanetše go <a href=\"http://get.adobe.com/flashplayer/\">mpshafatša Adobe "
+"Flash Player</a> gona bjale."
+
+msgid ""
+"Firefox is up to date, but your current version of Flash Player can cause "
+"security and stability issues.  Please <a "
+"href=\"http://get.adobe.com/flashplayer/\">install the free update</a> as soon "
+"as possible."
+msgstr ""
+"Firefox e mpshafaditšwe, eupša tokollo ya gago ya gona bjale ya Flash Player "
+"e ka baka mathata a tšhireletšego le go tia. Hle <a "
+"href=\"http://get.adobe.com/flashplayer/\">lokela mpshafatšo ya mahala</a> "
+"kapejana ka mo go kgonegago."
+
+msgid "Features"
+msgstr "Dibopego"
+
+msgid "Customize"
+msgstr "Tlwaelanya"
+
+msgid "Synchronize"
+msgstr "Nyalantšha"
+
+msgid "Develop for Mobile"
+msgstr "Tšweletša bakeng sa go thetha"
+
+msgid "Other Supported Platforms"
+msgstr "Dipolatefomo tše dingwe tše thekgwago"
+
+msgid "Other Platforms &amp; Languages"
+msgstr "Dipolatefomo tše dingwe &amp; Maleme"
+
+msgid "Choose your location"
+msgstr "Kgetha lefelo la gago"
+
+msgid "Send the download link to your phone"
+msgstr "Romela lomaganyo ya go laolla mogaleng wa gago"
+
+msgid ""
+"We could not send a text message to you. Please make sure your number "
+"includes a country code (e.g. +1 555-123-4567) and that you answered the "
+"captcha correctly."
+msgstr ""
+"Re ka romela molaetša wa go ngwalwa go wena. Hle netefatša gore nomoro ya "
+"gago e akaretša khoutu ya naga (mohl. +1 555-123-4567) le gore o arabile "
+"teko ka mo go nepagetšego."
+
+msgid ""
+"Enter your mobile number and get a text containing a link to download "
+"Firefox to your phone."
+msgstr ""
+"Tsenya nomoro ya gago ya mogala gomme o hwetše sengwalwa seo se nago le "
+"lomaganyo ya go laolla Firefox mogaleng wa gago."
+
+msgid "Get it now on the Nokia N900"
+msgstr "E hwetše gona bjale go Nokia N900"
+
+msgid "Send Text"
+msgstr "Romela sengwalwa"
+
+msgid "Standard text rates apply"
+msgstr "Go lefišwa ditefo tša motheo tša sengwalwa"
+
+msgid "Download Firefox directly from your phone"
+msgstr "Laolla Firefox ka go lebanya go tšwa mogaleng wa gago"
+
+msgid "Download"
+msgstr "Laolla"
+
+msgid "Next"
+msgstr "Latelago"
+
+msgid "MB"
+msgstr "MB"
+
+msgid "MegaBytes"
+msgstr "Dimekapaete"
+
+msgid "FAQ"
+msgstr "Dipotšišo tša Kgafetša"
+
+msgid "Videos"
+msgstr "Dibidio"
+
+msgid ""
+"Except where otherwise <a href=\"%s\">noted</a>, content on this site is "
+"licensed under the <br /><a href=\"%s\">Creative Commons Attribution Share-"
+"Alike License v3.0</a> or any later version."
+msgstr ""
+"Ka ntle le moo go <a href=\"%s\">lemošitšwego</a>, diteng tša saete ye di na "
+"le laesense ka tlase ga <br /><a href=\"%s\">Creative Commons Attribution "
+"Share-Alike License v3.0</a> goba tokollo e nngwe ya morago bjale."
+
+msgid "Report Trademark Abuse"
+msgstr "Bega tirišompe ya leswaothekišo"
+
+msgid "Free Upgrade"
+msgstr "Kaonafatšo ya mahala"
+
+msgid "Follow us on:"
+msgstr "Re latelele go:"
+
+msgid "Customize with Add-ons"
+msgstr "Tlwaelanya ka ditlaleletši"
+
+msgid "Sync Your Desktop & Mobile"
+msgstr "Nyalantšha tesekethopo & sellathekeng sa gago"
+
+msgid "New: Crash Protection"
+msgstr "E mpsha: Tšhireletšo ya go pšhatlega"
+
+msgid "Continue browsing even when your video or game crashes."
+msgstr ""
+"Tšwela pele o praosa gaešita le ge bidio ya gago goba papadi e pšhatlega."
+
+msgid "Learn More"
+msgstr "Ithute ka mo go oketšegilego"
+
+msgid "Watch the video"
+msgstr "Lebelela bidio"
+
+msgid "WebM format"
+msgstr "Fomate ya WebM"
+
+msgid "Ogg Theora format"
+msgstr "Fomate ya Ogg Theora"
+
+msgid "MPEG-4 format"
+msgstr "Fomate ya MPEG-4"
+
+msgid "Whoops! Be sure to enter a valid email address."
+msgstr "O!O! Netefatša go tsenya aterese ya imeile yeo e šomago."
+
+msgid "Please read the Mozilla Privacy Policy and agree by checking the box."
+msgstr ""
+"Hle bala pholisi ya bosephiri ya Mozilla gomme o dumele ka go swaya "
+"lepokisi."
+
+msgid "Please enter your email address and review the Mozilla Privacy Policy."
+msgstr ""
+"Hle tsenya aterese ya gago ya imeile gomme o boeletše pholisi ya bosephiri "
+"ya Mozilla."
+
+msgid "Mobile"
+msgstr "Sellathekeng"
+
+msgid "Firefox Updated"
+msgstr "Firefox e mpshafaditšwe"
+
+msgid "Take a Look at Tomorrow's Web"
+msgstr "Lebelela wepe ya gosasa"
+
+msgid "Journey to the Future with Firefox&nbsp;4"
+msgstr "Leeto la go ya bokamosong le Firefox&nbsp;4"
+
+msgid "Join the Beta Program"
+msgstr "Tsenela lenaneo la Beta"
+
+msgid "Experience Firefox&nbsp;4"
+msgstr "Itemogele Firefox&nbsp;4"
+
+msgid "The future of the Web is waiting for you!"
+msgstr "Bokamoso bja wepe bo go letetše!"
+
+msgid "The future of the Web starts now."
+msgstr "Bokamoso bja wepe bo thoma gona bjale."
+
+msgid "Try Firefox with a fresh look and feel."
+msgstr "Leka Firefox yeo e nago le ponagalo le maikutlo a foreše."
+
+msgid "Experience tomorrow's Web today."
+msgstr "Itemogele wepe ya gosasa lehono."
+
+msgid "Check out the new look and feel of Firefox&nbsp;4."
+msgstr "Bona ponagalo le maikutlo a maswa a Firefox&nbsp;4."
+
+msgid "Browse the future of the Web."
+msgstr "Praosa bokamoso bja wepe."
+
+msgid "See Firefox&nbsp;4 with a new look and feel."
+msgstr "Bona Firefox&nbsp;4 yeo e nago le ponagalo le maikutlo a maswa."
+
+msgid "Download Beta Now."
+msgstr "Laolla Beta gona bjale."
