@@ -1,0 +1,107 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-10-16 01:38+0200\n"
+"PO-Revision-Date: 2010-10-18 14:35+0200\n"
+"Last-Translator: Pheledi <pheledi@mosekolatranslation.co.za>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: nso\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Pootle 2.1.1\n"
+
+#: src-temp/firefox/4beta/firstrun/index.html+div.h1:12
+msgid ""
+"Welcome to <img "
+"src=\"<?=$config['static_prefix']?>/img/firefox/beta/4/firstrun/title.png\" "
+"alt=\"Firefox 4 Beta\" />"
+msgstr ""
+"O amogetšwe go <img "
+"src=\"<?=$config['static_prefix']?>/img/firefox/beta/4/firstrun/title.png\" "
+"alt=\"Firefox 4 Beta\" />"
+
+#: src-temp/firefox/4beta/firstrun/index.html+div.div.p:18
+msgid ""
+"Thanks for becoming a Firefox 4 beta tester! We’re building something "
+"awesome together, so please tell us what you do and don’t like about your "
+"experience."
+msgstr ""
+"Re lebogela gore o bile moleki wa Firefox 4 beta! Re aga selo seo se "
+"makatšago mmogo, ka gona hle re botše seo o se ratago le seo o sa se ratego "
+"ka boitemogelo bja gago."
+
+#: src-temp/firefox/4beta/firstrun/index.html+div.div.p:19
+msgid ""
+"We’ll be waiting for your feedback - watch the video to meet some of the "
+"people who will be listening to what you have to say!"
+msgstr ""
+"Re tla be re letetše karabelo ya gago - lebelela bidio gore o kopane le ba "
+"bangwe ba batho bao ba tla bago ba theeleditše seo o se bolelago!"
+
+#: src-temp/firefox/4beta/firstrun/index.html+div.div.ul.li:21
+msgid "New Features »"
+msgstr "Dibopego tše diswa »"
+
+#: src-temp/firefox/4beta/firstrun/index.html+div.div.ul.li:22
+msgid "Share Feedback »"
+msgstr "Abelana karabelo »"
+
+#: src-temp/firefox/4beta/firstrun/index.html+div.div.ul.li:23
+msgid "Release Notes »"
+msgstr "Dintlha tša tokollo »"
+
+#: src-temp/firefox/4beta/firstrun/index.html+div.div.h2:32
+msgid "Tell Us What You Think"
+msgstr "Re botše seo o se naganago"
+
+#: src-temp/firefox/4beta/firstrun/index.html+div.div.p:33
+msgid ""
+"As a beta tester, you’re part of the team making Firefox 4. Tell us when you "
+"like or dislike something by clicking on the <img src=\"<?=$screencap;?>\" "
+"alt=\"Feedback button screenshot\" /><em>Feedback</em> button. You’ll also be "
+"asked to take part in anonymous user studies, or fill out the occasional "
+"survey."
+msgstr ""
+"Bjalo ka moleki wa beta, o karolo ya sehlopha seo se dirago Firefox 4. Re "
+"botše ge eba go na le seo o se ratago le seo o sa se ratego ka go kgotla "
+"<img src=\"<?=$screencap;?>\" alt=\"Feedback button screenshot\" "
+"/><em>Feedback</em> button. Gape o tla kgopelwa go kgatha tema go "
+"dinyakišišo tša modiriši tšeo di sa utollego maina, goba gore o tlatše "
+"dinyakišišo tšeo di dirwago ka sewelo."
+
+#: src-temp/firefox/4beta/firstrun/index.html+div.div.h5:37
+msgid "How do the user studies work?"
+msgstr "Dinyakišišo tša modiriši di šoma bjang?"
+
+#: src-temp/firefox/4beta/firstrun/index.html+div.div.p:38
+msgid ""
+"User studies gather anonymous statistics about how you use Firefox, but "
+"never about what you’re seeing or doing online. You’re in control, and no "
+"data is sent to the Mozilla Test Pilot servers without your permission. The "
+"information will be used to help design Firefox 4."
+msgstr ""
+"Dinyakišišo tša modiriši di kgoboketša dipalopalo tša kamoo o dirišago "
+"Firefox, eupša e sego ka seo o se bonago goba o se dirago inthaneteng. Ke "
+"wena o laolago dilo, ga go na tsebišo yeo e romelwago go diabi tša Mozilla "
+"Test Pilot ka ntle le tumelelo ya gago. Tshedimošo e tla dirišetšwa go thuša "
+"go hlama Firefox 4."
+
+#: src-temp/firefox/4beta/firstrun/index.html+div.div.h5:42
+msgid "What if I don’t want to participate?"
+msgstr "Go thwe'ng ge eba ke sa nyake go kgatha tema?"
+
+#: src-temp/firefox/4beta/firstrun/index.html+div.div.p:43
+msgid ""
+"You’ll be told before any user study begins collecting data, and again "
+"before any information is sent to Mozilla. You can choose to opt-out of any "
+"study, or to turn off all user studies by clicking the <em>Feedback</em> "
+"button to manage your settings."
+msgstr ""
+"O tla botšwa pele nyakišišo ya modiriši ofe goba ofe e thoma go kgoboketša "
+"tsebišo, le pele tshedimošo efe goba efe e romelwa go Mozilla. O ka kgetha "
+"go tlogela nyakišišo efe goba efe, goba go tima dinyakišišo tšohle tša "
+"monyakišiši ka go kgotla konotswana ya <em>Karabelo</em> gore o laole "
+"dipeakanyo tša gago."
