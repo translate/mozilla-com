@@ -1,0 +1,55 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-03-15 08:52+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.9.0-beta2\n"
+
+#: src-temp/404.html+div.h2:13
+msgid "Hmmm, we’re having trouble finding that one."
+msgstr ""
+
+#: src-temp/404.html+div.div.h3:19
+msgid ""
+"We hate to say it, but we couldn’t find that page or file you’re looking "
+"for."
+msgstr ""
+
+#: src-temp/404.html+div.div.ul.li:22
+msgid "If you typed in the address, try double-checking the spelling."
+msgstr ""
+
+#: src-temp/404.html+div.div.ul.li:23
+msgid ""
+"If you followed a link from somewhere, please let us know at <em>webmaster "
+"at mozilla dot com</em>. Be sure to tell us where you came from and what you "
+"were looking for, and we’ll do our best to fix it."
+msgstr ""
+
+#: src-temp/404.html+div.div.h3:28
+msgid "If you’re really stuck, here are some other options:"
+msgstr ""
+
+#: src-temp/404.html+div.div.ul.li:31
+msgid ""
+"Were you looking for information about <a "
+"href=\"/<?=$lang?>/firefox/\">Firefox</a>?"
+msgstr ""
+
+#: src-temp/404.html+div.div.ul.li:32
+msgid ""
+"Or maybe our email program, <a "
+"href=\"/<?=$lang?>/thunderbird/\">Thunderbird</a>?"
+msgstr ""
+
+#: src-temp/404.html+div.div.ul.li:33
+msgid ""
+"It might just be best to start at <a "
+"href=\"/<?=$lang?>/\">www.mozilla.com</a>."
+msgstr ""
