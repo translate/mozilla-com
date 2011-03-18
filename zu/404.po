@@ -3,27 +3,30 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2011-03-15 08:52+0200\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"PO-Revision-Date: 2011-03-17 22:14+0200\n"
+"Last-Translator: priny <priny@translate.org.za>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: zu\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Translate Toolkit 1.9.0-beta2\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Pootle 2.1.5\n"
 
 #: src-temp/404.html+div.h2:13
 msgid "Hmmm, we’re having trouble finding that one."
-msgstr ""
+msgstr "Hmmm, sinenkinga ekutholeni leyo nto."
 
 #: src-temp/404.html+div.div.h3:19
 msgid ""
-"We hate to say it, but we couldn’t find that page or file you’re looking "
-"for."
+"We hate to say it, but we couldn’t find that page or file you’re looking for."
 msgstr ""
+"Asithandani ukusho lokhu, kodwa asikwazanga ukuthola lelo khasi noma ifayela "
+"olifunayo."
 
 #: src-temp/404.html+div.div.ul.li:22
 msgid "If you typed in the address, try double-checking the spelling."
-msgstr ""
+msgstr "Uma uthayiphe ikheli, zama ukuhlola futhi ukupeleta."
 
 #: src-temp/404.html+div.div.ul.li:23
 msgid ""
@@ -31,25 +34,35 @@ msgid ""
 "at mozilla dot com</em>. Be sure to tell us where you came from and what you "
 "were looking for, and we’ll do our best to fix it."
 msgstr ""
+"Uma ulandele izixhumanisi kuvela kwenye indawo, sicela usazise ku-"
+"<em>webmaster at mozilla dot com</em>. Qinisekisa ukusetshela ukuthi uvela "
+"kuphi futhi ukuthi ubufunani, bese sizoyenza konke okusemandleni "
+"ukuyilungisa."
 
 #: src-temp/404.html+div.div.h3:28
 msgid "If you’re really stuck, here are some other options:"
-msgstr ""
+msgstr "Uma ubambeke ngempela, nazi ezinye izinketho:"
 
 #: src-temp/404.html+div.div.ul.li:31
 msgid ""
-"Were you looking for information about <a "
-"href=\"/<?=$lang?>/firefox/\">Firefox</a>?"
+"Were you looking for information about <a href=\"/<?=$lang?>/firefox/"
+"\">Firefox</a>?"
 msgstr ""
+"Yingabe ubufuna imininingwane emayelana ne-<a href=\"/<?=$lang?>/firefox/"
+"\">Firefox</a>?"
 
 #: src-temp/404.html+div.div.ul.li:32
 msgid ""
-"Or maybe our email program, <a "
-"href=\"/<?=$lang?>/thunderbird/\">Thunderbird</a>?"
+"Or maybe our email program, <a href=\"/<?=$lang?>/thunderbird/"
+"\">Thunderbird</a>?"
 msgstr ""
+"Noma uhlelo lwethu lwe-imeyili, <a href=\"/<?=$lang?>/thunderbird/"
+"\">Thunderbird</a>?"
 
 #: src-temp/404.html+div.div.ul.li:33
 msgid ""
-"It might just be best to start at <a "
-"href=\"/<?=$lang?>/\">www.mozilla.com</a>."
+"It might just be best to start at <a href=\"/<?=$lang?>/\">www.mozilla.com</"
+"a>."
 msgstr ""
+"Kungalunga kakhulu ukuthi uqale ku-<a href=\"/<?=$lang?>/\">www.mozilla.com</"
+"a>."
