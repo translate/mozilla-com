@@ -1,0 +1,46 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-08-13 04:16-0700\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.9.1-pre\n"
+
+#: mozilla.com-source/firefox/4/firstrun/fallback.inc.html+header.p:3
+msgid ""
+"Thanks for supporting <a mozhack=\"<?=$aboutlink?>\">Mozilla’s mission</a> of "
+"encouraging openness, innovation and opportunity on the Web!"
+msgstr ""
+
+#: mozilla.com-source/firefox/4/firstrun/fallback.inc.html+div.div.h2:18
+msgid "Stay Connected"
+msgstr ""
+
+#: mozilla.com-source/firefox/4/firstrun/fallback.inc.html+div.div.ul.li:20
+msgid "Get the Monthly News"
+msgstr ""
+
+#: mozilla.com-source/firefox/4/firstrun/fallback.inc.html+div.div.ul.li:21
+msgid "Become a Fan on Facebook"
+msgstr ""
+
+#: mozilla.com-source/firefox/4/firstrun/fallback.inc.html+div.div.ul.li:22
+msgid "Follow us on Twitter"
+msgstr ""
+
+#: mozilla.com-source/firefox/4/firstrun/fallback.inc.html+div.div.div.h2:27
+msgid "More Ways to Personalize"
+msgstr ""
+
+#: mozilla.com-source/firefox/4/firstrun/fallback.inc.html+div.div.div.p:28
+msgid "Adapt Firefox to the way you browse with 1,000s of free add-ons."
+msgstr ""
+
+#: mozilla.com-source/firefox/4/firstrun/fallback.inc.html+div.div.div.ul.li:30
+msgid "Explore Add-ons"
+msgstr ""

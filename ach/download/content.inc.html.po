@@ -1,0 +1,29 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-08-13 04:16-0700\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.9.1-pre\n"
+
+#: mozilla.com-source/download/content.inc.html+div.div.h2:5
+msgid "Thanks for choosing Firefox!"
+msgstr ""
+
+#: mozilla.com-source/download/content.inc.html+div.div.p:7
+msgid ""
+"Your download should automatically begin in a few seconds, but if not, <a "
+"href=\"<?=$dl_link?>\">click here</a>."
+msgstr ""
+
+#: mozilla.com-source/download/content.inc.html+div.p:17
+msgid ""
+"Don't forget to give us feedback about the Beta!<br/> Click on the "
+"<em>Feedback</em> button on the top right corner of your browser to send us "
+"your thoughts."
+msgstr ""
