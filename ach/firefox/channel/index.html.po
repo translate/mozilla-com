@@ -92,4 +92,4 @@ msgstr ""
 
 #: $pageid
 msgid "firefox-channels"
-msgstr "cwalo firefox"
+msgstr "firefox-channels"
