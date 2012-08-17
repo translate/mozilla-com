@@ -21,4 +21,4 @@ msgstr "Ojoli I Firefox"
 
 #: $pageid
 msgid "firstrun-4"
-msgstr "ngwec me akwokwong-4"
+msgstr "firstrun-4"
