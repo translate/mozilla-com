@@ -1,29 +1,33 @@
+# Administrator <vunye.mv@gmail.com>, 2012.
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2012-08-13 04:16-0700\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2012-08-16 13:17+0300\n"
+"Last-Translator: Administrator <vunye.mv@gmail.com>\n"
+"Language-Team: Rukiga\n"
+"Language: lg\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Translate Toolkit 1.9.1-pre\n"
+"X-Generator: Virtaal 0.7.1\n"
 
 #: mozilla.com-source/404.html+div.h2:13
 msgid "Hmmm, we’re having trouble finding that one."
-msgstr ""
+msgstr "Hmmm, otye ki ayelayela inwongo meno."
 
 #: mozilla.com-source/404.html+div.div.h3:19
 msgid ""
 "We hate to say it, but we couldn’t find that page or file you’re looking "
 "for."
 msgstr ""
+"Wan wadag waco ne, ento pe watwero nwongo pot buk onyo pwail ma in itye "
+"kayenyo pire."
 
 #: mozilla.com-source/404.html+div.div.ul.li:22
 msgid "If you typed in the address, try double-checking the spelling."
-msgstr ""
+msgstr "Ka ce dong in icoyo i address, tem diyo kiryo-roto nyukta."
 
 #: mozilla.com-source/404.html+div.div.ul.li:23
 msgid ""
@@ -31,25 +35,33 @@ msgid ""
 "at mozilla dot com</em>. Be sure to tell us where you came from and what you "
 "were looking for, and we’ll do our best to fix it."
 msgstr ""
+"Ka ce ilubo kakube ki kano mo, tim ber imi wa ngec ki <em>webmaster at "
+"mozilla dot com</em>. Mok ada me waci wa ka ma in iya iye kede gin ma "
+"onwongo in itye ka yenyo pire, kede wan wabino keto tek me"
 
 #: mozilla.com-source/404.html+div.div.h3:28
 msgid "If you’re really stuck, here are some other options:"
-msgstr ""
+msgstr "Ka ce imoko woko, me ayera bene tye kany:"
 
 #: mozilla.com-source/404.html+div.div.ul.li:31
 msgid ""
 "Were you looking for information about <a "
 "href=\"/<?=$lang?>/firefox/\">Firefox</a>?"
 msgstr ""
+"Onwongo iti kayenyo pi ngec ikom <a href=\"/<?=$lang?>/firefox/\">Firefox</a>?"
 
 #: mozilla.com-source/404.html+div.div.ul.li:32
 msgid ""
 "Or maybe our email program, <a "
 "href=\"/<?=$lang?>/thunderbird/\">Thunderbird</a>?"
 msgstr ""
+"Onyo purugram me email address mamegwa, <a "
+"href=\"/<?=$lang?>/thunderbird/\">Thunderbird</a>?"
 
 #: mozilla.com-source/404.html+div.div.ul.li:33
 msgid ""
 "It might just be best to start at <a "
 "href=\"/<?=$lang?>/\">www.mozilla.org</a>."
 msgstr ""
+"Twero bed mamwonya  tutwal me cako ki <a "
+"href=\"/<?=$lang?>/\">www.mozilla.org</a>."

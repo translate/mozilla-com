@@ -1,69 +1,86 @@
+# Administrator <vunye.mv@gmail.com>, 2012.
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2012-08-13 04:16-0700\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2012-08-16 15:06+0300\n"
+"Last-Translator: Administrator <vunye.mv@gmail.com>\n"
+"Language-Team: Rukiga\n"
+"Language: lg\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Translate Toolkit 1.9.1-pre\n"
+"X-Generator: Virtaal 0.7.1\n"
 
 #: mozilla.com-source/plugincheck/content.inc.html+div.h2:4
 msgid "Check Your <span>Plugins</span>"
-msgstr ""
+msgstr "Rot mamemgi<span>Plugins</span>"
 
 #: mozilla.com-source/plugincheck/content.inc.html+div.p:5
 msgid ""
 "Keeping your third-party plugins up to date helps Firefox run safely and "
 "smoothly."
 msgstr ""
+"Gwoko rwak iyie ni me adek iyie wek obed matiyo konyo Firefox tiyo mamwonya "
+"kede dang dok mapwot olu."
 
 #: mozilla.com-source/plugincheck/content.inc.html+div.div.div.h3:14
 msgid "Missing <span>FLASH?</span>"
-msgstr ""
+msgstr "Orem <span>FLASH?</span>"
 
 #: mozilla.com-source/plugincheck/content.inc.html+div.div.div.p:15
 msgid ""
 "For your safety, Firefox has disabled your outdated version of Flash. Please "
 "<a mozhack=\"<?=$link[0];?>\" >upgrade to the latest version.</a>"
 msgstr ""
+"Pi ber bedo ni, Firefox otyeko jwiko woko cik mamegi ma kare ne okato woko "
+"pi Flash. Tim ber <a mozhack=\\\"<?=$link[0];?>\\\" > wek iyil rwome malu pi cik "
+"mere manyen.</a>"
 
 #: mozilla.com-source/plugincheck/content.inc.html+div.div.div.ul.li:22
 msgid ""
 "<strong>Warning, a newer version of your browser is available.</strong> "
 "Please upgrade your browser."
 msgstr ""
+"<strong>Ciko, cik manyen meri me layab mamegi bene dong atye.</tek odoco> "
+"Tim ber iyil rwom me layab meri malu."
 
 #: mozilla.com-source/plugincheck/content.inc.html+div.div.div.ul.li:25
 msgid ""
 "This page works best with the latest browsers: Firefox 3.6+, Opera 10.5+, "
 "Safari 4+, Chrome 4+, or IE 8+"
 msgstr ""
+"Pot buk ma eni tiyo maber ki layeny web mukati manyen: Firefox 3.6+, Opera "
+"10.5+, Safari 4+, Chrome 4+, or IE 8+"
 
 #: mozilla.com-source/plugincheck/content.inc.html+div.div.div.ul.li:28
 msgid ""
 "Plugin Check <strong>support for Internet Explorer is limited</strong>. Also "
 "use Tools &gt; Manage Addons"
 msgstr ""
+"Roto rwako iyie <strong> cwak me Internet Explorer pe nok/strong>.Amanono "
+"dang tiyo ki Gin tic &gt; Loyo odoco Med ikome"
 
 #: mozilla.com-source/plugincheck/content.inc.html+div.div.div.ul.li:31
 msgid ""
 "<strong><em>Step 1:</em></strong> Click <strong>Update</strong> to update a "
 "plugin."
 msgstr ""
+"<strong><em>rwom 1:</em></strong> dii <strong>Update</strong> wek ket rwak "
+"iyie."
 
 #: mozilla.com-source/plugincheck/content.inc.html+div.div.div.ul.li:34
 msgid ""
 "<strong><em>Step 2:</em></strong> <strong>Complete all recommended "
 "updates</strong> <em>before</em> restarting your browser."
 msgstr ""
+"<strong><em>rwom 2:</em></strong> <strong> Tyek moka weng me keto gin manyen "
+"strong> <em>mapwod pe</em> ocako odoco layab web mamegi."
 
 #: mozilla.com-source/plugincheck/content.inc.html+div.div.noscript.div.h3:42
 msgid "Note"
-msgstr ""
+msgstr "Ngec"
 
 #: mozilla.com-source/plugincheck/content.inc.html+div.div.noscript.div.p:43
 msgid ""
@@ -72,74 +89,81 @@ msgid ""
 "of <strong>JavaScript</strong>. Please enable this Content Preference and "
 "reload the page."
 msgstr ""
+"<strong>Itye ki JavaScript kikwanyo woko</strong> onyo tic ki layab web "
+"labongo JavaScript. Rwako iyie ma eni roto pot buk pe tiyo labongo teko "
+"mamwonya pi <strong>JavaScript</strong>.Tim ber iyeyi jami ma imito kede "
+"opang odoco pot buk."
 
 #: mozilla.com-source/plugincheck/content.inc.html+div.div.noscript.div.p:44
 msgid ""
 "Or disable all your plugins and keep JavaScript disabled... you'd be in good "
 "company, that's how <a mozhack=\"<?=$link[1];?>\" >RMS rolls</a>."
 msgstr ""
+"Onyo kwany woko rwako iyie weng cite gwok JavaScript kikwanyo woko... yin "
+"onwongo myero ibed i kampuni maber atika, man en kit ame myero <a "
+"mozhack=\\\"<?=$link[1];?>\\\" >RMS loro</a>."
 
 #: mozilla.com-source/plugincheck/content.inc.html+div.div.div.h3:51
 msgid "Plugin Finding Service Error"
-msgstr ""
+msgstr "Bal me yenyo tic me rwako iyie"
 
 #: mozilla.com-source/plugincheck/content.inc.html+div.div.div.p:52
 msgid "We've encountered an error. Please try your request again later."
-msgstr ""
+msgstr "Wabedo ki bal mo. Tim ber item lega mamegi dok lacen."
 
 #: mozilla.com-source/plugincheck/content.inc.html+div.div.div.h3:65
 msgid "Plugin Tips"
-msgstr ""
+msgstr "Diro me Rwako iyie"
 
 #: mozilla.com-source/plugincheck/content.inc.html+div.div.div.ul.li:67
 msgctxt "mozilla.com-source/plugincheck/content.inc.html div.div.div.ul.li:67"
 msgid "What is a plugin?"
-msgstr ""
+msgstr "Rwak iyie en gin ango?"
 
 #: mozilla.com-source/plugincheck/content.inc.html+div.div.div.ul.li:68
 msgctxt "mozilla.com-source/plugincheck/content.inc.html div.div.div.ul.li:68"
 msgid "Why should I update my plugins?"
-msgstr ""
+msgstr "Pingo kara an myero aket rwak iyie na manyen?"
 
 #: mozilla.com-source/plugincheck/content.inc.html+div.div.div.ul.li:69
 msgctxt "mozilla.com-source/plugincheck/content.inc.html div.div.div.ul.li:69"
 msgid "How can Firefox help me?"
-msgstr ""
+msgstr "Firefox twero konya iyore mene?"
 
 #: mozilla.com-source/plugincheck/content.inc.html+div.div.div.ul.li:70
 msgctxt "mozilla.com-source/plugincheck/content.inc.html div.div.div.ul.li:70"
 msgid "Which plugins do I have?"
-msgstr ""
+msgstr "Rwak iyie mene ma an atye kwede?"
 
 #: mozilla.com-source/plugincheck/content.inc.html+div.div.div.ul.li:71
 msgctxt "mozilla.com-source/plugincheck/content.inc.html div.div.div.ul.li:71"
 msgid "How do I disable a plugin?"
-msgstr ""
+msgstr "Akwany rwak iyie nining?"
 
 #: mozilla.com-source/plugincheck/content.inc.html+div.div.div.h3:76
 msgid "Need Help?"
-msgstr ""
+msgstr "Mito Kony?"
 
 #: mozilla.com-source/plugincheck/content.inc.html+div.div.div.ul.li:78
 msgid "Visit support.mozilla.org"
-msgstr ""
+msgstr "Lim support.mozilla.org"
 
 #: mozilla.com-source/plugincheck/content.inc.html+div.div.div.ul.li:79
 msgid "Read support articles about plugins"
-msgstr ""
+msgstr "Kwan cik me cwako te ikom rwak iyie "
 
 #: mozilla.com-source/plugincheck/content.inc.html+div.div.h2:88
 msgid "Frequently asked <span>Questions</span>"
-msgstr ""
+msgstr "Maro penyo jwijwi <span>Lapeny</span>"
 
 #: mozilla.com-source/plugincheck/content.inc.html+div.div.div.h3:91
 msgctxt "mozilla.com-source/plugincheck/content.inc.html div.div.div.h3:91"
 msgid "What is a plugin?"
-msgstr ""
+msgstr "Rwak iyie obedo gin ango?"
 
 #: mozilla.com-source/plugincheck/content.inc.html+div.div.div.ul.li:93
 msgid "Plugins power <strong>videos, animation and games</strong>."
-msgstr ""
+msgstr "Teko me rwako iyie <strong>video, miyo wot ki tuku mapatpat</strong>."
 
 #: mozilla.com-source/plugincheck/content.inc.html+div.div.div.ul.li:94
 msgid ""
@@ -147,37 +171,44 @@ msgid ""
 "mozhack=\"<?=$link[9];?>\">Adobe Systems</a> and <a mozhack=\"<?=$link[10];?>\" "
 ">Apple</a>."
 msgstr ""
+"Gin gityeko gero <strong>ki woko me Firefox ki kampunu mapol</strong> calo "
+"<a mozhack=\\\"<?=$link[9];?>\\\">Adobe Systems</a> ki <a "
+"mozhack=\\\"<?=$link[10];?>\\\" >Apple</a>."
 
 #: mozilla.com-source/plugincheck/content.inc.html+div.div.div.ul.li:95
 msgid "Plugins <strong>don't always update</strong> automatically."
-msgstr ""
+msgstr "Rwak iyie <strong> pe iket gin manyen jwijwi</strong> pire kene."
 
 #: mozilla.com-source/plugincheck/content.inc.html+div.div.div.h3:98
 msgctxt "mozilla.com-source/plugincheck/content.inc.html div.div.div.h3:98"
 msgid "Why should I update my plugins?"
-msgstr ""
+msgstr "Pingo myero aket rwak iyie mamega?"
 
 #: mozilla.com-source/plugincheck/content.inc.html+div.div.div.ul.li:100
 msgid ""
 "Old plugins can interrupt browsing and <strong>waste your time</strong>."
-msgstr ""
+msgstr "rwak iyie mutii twero nyweno yabo ki <strong>balo kare ni</strong>."
 
 #: mozilla.com-source/plugincheck/content.inc.html+div.div.div.ul.li:101
 msgid ""
 "Old plugins <strong>increase your risk</strong> for attack by malware, "
 "viruses, and other security threats."
 msgstr ""
+"Rwak iyie muti <strong>medo bedo pi piri yin</strong> pi mony ki malware, "
+"kwidi kompiuta, ki kit balo ber bedo mukene."
 
 #: mozilla.com-source/plugincheck/content.inc.html+div.div.div.ul.li:102
 msgid ""
 "<strong>Updated plugins have improvements</strong> that make the web "
 "<strong>better and safer</strong> for you."
 msgstr ""
+"<strong>rwak iyie Ma rwom ne kiyilo malu tye dong maber</strong> mamiyo web "
+"<strong>mamwonya kede gwoke maber</strong> piri yin."
 
 #: mozilla.com-source/plugincheck/content.inc.html+div.div.div.h3:110
 msgctxt "mozilla.com-source/plugincheck/content.inc.html div.div.div.h3:110"
 msgid "How can Firefox help me?"
-msgstr ""
+msgstr "Firefox twero konya ningo?"
 
 #: mozilla.com-source/plugincheck/content.inc.html+div.div.div.p:111
 msgid ""
@@ -185,64 +216,69 @@ msgid ""
 "<strong>regularly check this page</strong> and update your plugins to stay "
 "safe."
 msgstr ""
+"I kare me anyim, Firefox biketo rwak iyie mukene pi yin. Manaka con, myero i "
+"<strong>rot pot buk ma eni kare lung</strong> ki ket rwak iyie wek gwoke "
+"maber."
 
 #: mozilla.com-source/plugincheck/content.inc.html+div.div.div.h3:113
 msgctxt "mozilla.com-source/plugincheck/content.inc.html div.div.div.h3:113"
 msgid "Which plugins do I have?"
-msgstr ""
+msgstr "Myero ati ki rwak iyie mene?"
 
 #: mozilla.com-source/plugincheck/content.inc.html+div.div.div.p:114
 msgid ""
 "We automatically detected your plugins above, to <strong>view your installed "
 "plugins in Firefox</strong> follow these steps:"
 msgstr ""
+"Wan dong otyeko nwongo rwak iyie mamegi iwie malu, pi <strong>neno odoco "
+"rwak iyie mamegi ma in iketo iyi Firefox</strong> lub yadi magi:"
 
 #: mozilla.com-source/plugincheck/content.inc.html+div.div.div.ol.li:116
 msgctxt "mozilla.com-source/plugincheck/content.inc.html div.div.div.ol.li:116"
 msgid "Open the <kbd>Tools</kbd> menu."
-msgstr ""
+msgstr "Yab <kbd>Gin tic</kbd> nying jami."
 
 #: mozilla.com-source/plugincheck/content.inc.html+div.div.div.ol.li:117
 msgctxt "mozilla.com-source/plugincheck/content.inc.html div.div.div.ol.li:117"
 msgid "Choose <kbd>Add-ons</kbd>."
-msgstr ""
+msgstr "Yer <kbd>Med-ikom</kbd>."
 
 #: mozilla.com-source/plugincheck/content.inc.html+div.div.div.ol.li:118
 msgctxt "mozilla.com-source/plugincheck/content.inc.html div.div.div.ol.li:118"
 msgid "Click the <kbd>plugins</kbd> tab."
-msgstr ""
+msgstr "Dii <kbd>plugins</kbd> dirica maditi."
 
 #: mozilla.com-source/plugincheck/content.inc.html+div.div.div.div.h3:122
 msgctxt "mozilla.com-source/plugincheck/content.inc.html div.div.div.div.h3:122"
 msgid "How do I disable a plugin?"
-msgstr ""
+msgstr "Myero akwany rwak iyie ningo?"
 
 #: mozilla.com-source/plugincheck/content.inc.html+div.div.div.div.p:123
 msgid "In Firefox:"
-msgstr ""
+msgstr "Iyi Firefox:"
 
 #: mozilla.com-source/plugincheck/content.inc.html+div.div.div.div.ol.li:125
 msgctxt "mozilla.com-source/plugincheck/content.inc.html div.div.div.div.ol.li:125"
 msgid "Open the <kbd>Tools</kbd> menu."
-msgstr ""
+msgstr "Yab <kbd>Gin tic</kbd> nying jami."
 
 #: mozilla.com-source/plugincheck/content.inc.html+div.div.div.div.ol.li:126
 msgctxt "mozilla.com-source/plugincheck/content.inc.html div.div.div.div.ol.li:126"
 msgid "Choose <kbd>Add-ons</kbd>."
-msgstr ""
+msgstr "Yer <kbd>Med-ikome</kbd>."
 
 #: mozilla.com-source/plugincheck/content.inc.html+div.div.div.div.ol.li:127
 msgctxt "mozilla.com-source/plugincheck/content.inc.html div.div.div.div.ol.li:127"
 msgid "Click the <kbd>plugins</kbd> tab."
-msgstr ""
+msgstr "Dii <kbd>plugins</kbd> dirica matidi."
 
 #: mozilla.com-source/plugincheck/content.inc.html+div.div.div.div.ol.li:128
 msgid "Click on a plugin in the list."
-msgstr ""
+msgstr "Dii kom rwak iyie iyi nying jami."
 
 #: mozilla.com-source/plugincheck/content.inc.html+div.div.div.div.ol.li:129
 msgid "Click the <kbd>Disable</kbd> button."
-msgstr ""
+msgstr "Dii  <kbd>Kwany</kbd> mapeca."
 
 #: mozilla.com-source/plugincheck/content.inc.html+div.div.div.div.p:131
 msgid ""
@@ -251,10 +287,13 @@ msgid ""
 "Flash, you will not be able to watch videos on popular video streaming "
 "sites."
 msgstr ""
+"strong> Cung kong:</strong> kwanyo woko rwak iyie nyutu atir ni yin "
+"<strong>pe ibi timo</strong> jami mogo. Aporere, ka ce in ikwanyo Flash, Pe "
+"ibineno video ikom dyer bar me video mangeye."
 
 #: mozilla.com-source/plugincheck/content.inc.html+div.div.div.h3:134
 msgid "Have more <span>questions?</span>"
-msgstr ""
+msgstr "Tye mapol <span>lapeny?</span>"
 
 #: mozilla.com-source/plugincheck/content.inc.html+div.div.div.p:135
 msgid ""
@@ -262,3 +301,6 @@ msgid ""
 "mozhack=\"<?=$link[6];?>\">learn about plugins</a> or <a "
 "mozhack=\"<?=$link[8];?>\">troubleshoot plugin problems</a>."
 msgstr ""
+"<a mozhack=\\\"<?=$link[7];?>\\\">dyer bar wa me cwako ter</a> twero konyi <a "
+"mozhack=\\\"<?=$link[6];?>\\\">nwong ngec ikom rwak iyie</a> or <a "
+"mozhack=\\\"<?=$link[8];?>\\\">kwed bal me peko me rwak iyie</a>."
